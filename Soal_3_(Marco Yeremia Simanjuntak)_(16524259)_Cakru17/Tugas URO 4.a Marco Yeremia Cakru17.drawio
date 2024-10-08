@@ -1,0 +1,131 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="BijYN5pXqhkXW9U4xSd6">
+    <mxGraphModel dx="1290" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cy4meIFWNQ23UKhba0-v-16" target="Cy4meIFWNQ23UKhba0-v-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-16" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Reference input&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-920" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;1. Open loop control system&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-1040" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cy4meIFWNQ23UKhba0-v-21" target="Cy4meIFWNQ23UKhba0-v-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-21" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Controller&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="-948.75" width="160" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cy4meIFWNQ23UKhba0-v-23" target="Cy4meIFWNQ23UKhba0-v-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-23" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Process&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-948.75" width="160" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-24" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Output&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-920" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-28" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;1. Input akan masuk ke dalam controller yang akan mengatur jumlah input yang diperlukan untuk lanjut ke tahap berikutnya.&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-715" width="1010" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Penjelasan:&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-810" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-30" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;2. Setelah itu, input kemudian akan melewati suatu rangkaian proses hingga akhirnya keluar sebagai output&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" width="880" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-31" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;1. Closed loop control system&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-500" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-32" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Reference input&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-370" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Control System&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-820" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-35" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="-960" as="sourcePoint" />
+            <mxPoint x="660" y="-960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-36" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="-830" as="sourcePoint" />
+            <mxPoint x="250" y="-960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-37" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="-830" as="sourcePoint" />
+            <mxPoint x="660" y="-830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-38" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="-830" as="sourcePoint" />
+            <mxPoint x="660" y="-960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-39" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Pada sistem ini, input sangat bergantung kepada output karena untuk mendapat input yang diinginkan, kita harus melihat&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;dari outputnya. Jika outputnya sudah sesuai yang kita inginkan, kita tidak perlu mengganti inputnya, tetapi jika outputnya&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;belum sesuai yang kita inginkan maka kita harus mengubah inputnya dalam percobaan berikutnya.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-610" width="990" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cy4meIFWNQ23UKhba0-v-40" target="Cy4meIFWNQ23UKhba0-v-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-40" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Controller&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-398.75" width="160" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cy4meIFWNQ23UKhba0-v-41" target="Cy4meIFWNQ23UKhba0-v-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-41" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Process&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="-398.75" width="160" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Cy4meIFWNQ23UKhba0-v-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="-40" as="targetPoint" />
+            <mxPoint x="940" y="-320" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="940" y="-210" />
+              <mxPoint x="295" y="-210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-42" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Output&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="-370" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cy4meIFWNQ23UKhba0-v-43" target="Cy4meIFWNQ23UKhba0-v-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-43" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-370" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Cy4meIFWNQ23UKhba0-v-32" target="Cy4meIFWNQ23UKhba0-v-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-52" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Error&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Detection&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-470" width="130" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-54" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;1. Input akan masuk ke dalam controller yang akan mengatur jumlah input yang diperlukan untuk lanjut ke tahap berikutnya.&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-70" width="1010" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-55" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;3. Lalu, jumlah output dipertahankan dengan menggunakan feedback yang akan menyampaikan informasi kepada Error&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Detection yang akan mengontrol sistem untuk menghasilkan output yang kita inginkan&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="70" width="980" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-56" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Pada sistem ini, output tidak bergantung kepada input karena sistem dapat menyesuaikan input yang kita berikan untuk&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;mendapatkan hasil yang kita inginkan tanp memerlukan interverensi kita sama sekali dalam prosesnya.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="170" width="980" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-57" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;2. Setelah itu, input kemudian akan melewati suatu rangkaian proses hingga akhirnya keluar sebagai output&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-670" width="880" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cy4meIFWNQ23UKhba0-v-58" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;FEEDBACK&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="525" y="-200" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
