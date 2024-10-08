@@ -1,0 +1,31 @@
+4.b - kinematics
+      - object detection
+	memungkinkan  computer untuk mengenali objek-objek tertentu dan menentukan posisi serta batas-batasnya dalam citra visual.
+	object detection bekerja dengan 7 Langkah, yaitu input data, feature extraction, pemilihan model, pendeteksian objek kasar,
+	pemilihan ROI (Region Of Interest), pengklasifikasian objek, dan pemantauan dan pemrosesan lanjutan 
+
+      - pose estimation
+	Teknik yang menunjukkan dengan tepat sendi dari manusia di gambar dan video untuk mengerti pose yang mereka lakukan
+
+      - camera calibration
+	memprediksi parameter dari sebuah lensa dan sensor gambar dari sebuah gambar atau video kamera. Parameter ini dapat dipakai untuk 
+	mengoreksi distorsi lensa, mengukur ukuran dari sebuah objek atau menentukan lokasi dari suatu kamera yang digunakan. Pada 	robotik, camera calilbration dapat digunakan untuk sistem navigasi dan konstruksi scene 3D
+
+    
+    - ADRC (Active disturbance Rejection Control)
+      adalah sebuah Teknik control yang tidak memerlukan model yang berguna untuk mendesain kontroler untuk mesin yang dinamika serta 
+      ganggutan internal dan externalnya tidak diketahui. Algortima ini hanya memerlukan sebuah perkiraan dari dinamika mesin untuk 
+      mendesain kontroler yang kuat.
+
+
+    - PID (Proportional-Integral-Derivative) control algorithms
+      merupakan kontroler untuk menentukan presisi suatu system instrumentasi dengan karasteritik adanya umpan balik pada system tersebut. 
+      Pengontrol PID adalah pengontrol konvensional yang banyak dipakai dalam dunia industry. Pengontrol PID akan memberikan aksi kepada 
+      control valve berdasarkan besar error yang diperoleh. control valce akan menjadi actuator yang mengatur aliran fluida dalam proses 
+      Industri yang terjadi level air yang diinginkan disebut set pint. error adalah perbedaan dari setpoint dengan level air natural.
+
+
+    - A* algorithm
+      algoritma yang digunakan untuk mencari jalan terpendek di antara sebuah titik awal dan titik akhir. Ia didesain sebagai lintasan 
+      garis untuk membantu membangun sebuah robot. Ia mencari jalan terpendek terlebih dahulu yang membuatnya menjadi sebuah algoritma 
+      yang optimal dan komplit. Sebuah algoritma yang optimal akan bekerja dengan output sedikit dari dosen.
